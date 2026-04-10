@@ -1,44 +1,35 @@
-# takziv.co.il — Generative Engine Optimization Map
-
-> A lecture or speaking event promoted via the website takziv.co.il/lecture. The user wants to create a dedicated landing page based on existing materials including a poster and the content found on their website. The brand identity and visual style should be derived from those existing assets.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://takziv-co-il-12554e4d.zappy5.app
+https://example.com
 A lecture or speaking event promoted via the website takziv.co.il/lecture. The user wants to create a dedicated landing page based on existing materials includi
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://takziv-co-il-12554e4d.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://takziv-co-il-12554e4d.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://takziv-co-il-12554e4d.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About takziv.co.il
-A lecture or speaking event promoted via the website takziv.co.il/lecture. The user wants to create a dedicated landing page based on existing materials including a poster and the content found on their website. The brand identity and visual style should be derived from those existing assets.
-
-## Target Audience
-
-## Industry
-חינוך / הרצאות
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://takziv-co-il-12554e4d.zappy5.app/sitemap.xml
-- **Robots.txt**: https://takziv-co-il-12554e4d.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
