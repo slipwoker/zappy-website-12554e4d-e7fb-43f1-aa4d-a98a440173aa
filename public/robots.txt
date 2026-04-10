@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://takziv-co-il-12554e4d.zappy5.app/sitemap.xml
